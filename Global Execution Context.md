@@ -26,7 +26,7 @@ Execution Phase
 
  
 
-#Difference between undefined and not defined 
+# Difference between undefined and not defined 
 
 undefined 
 It works like when we declared a variable in the code but did not assign the value before printing the variable value 
